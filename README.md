@@ -22,7 +22,7 @@
 Для проверки:
 1. Ознакомьтесь с содержимым `checklist.md`
 2. Перейдите по ссылке на удалённый репозиторий:
-**[]()**  
+**[https://github.com/zharikov01/project_carhire](https://github.com/zharikov01/project_carhire)**  
 ## Автор
 
 Жариков Я.В., SWT421, 2025
